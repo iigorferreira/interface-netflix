@@ -68,6 +68,7 @@ header .container {
 }
 
 .botao {
+    /* BOTÕES "ASSISTIR" E "+INFO" NO BANNER PRINCIPAL*/
     background-color: rgba(0,0,0,.50);
     border: none;
     color: white;
@@ -79,6 +80,7 @@ header .container {
 }
 
 .botao:hover {
+    /* MUDAR COR AO PASSAR O MOUSE EM CIMA DOS BOTÕES NO BANNER PRINCIPAL*/
     background-color: white;
     color: black;
 }
